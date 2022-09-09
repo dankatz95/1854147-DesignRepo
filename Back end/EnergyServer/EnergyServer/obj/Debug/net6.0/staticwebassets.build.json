@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RPhVyw5BfZkbO2H8Mo0eKbk1TSIakae+rIIlA3dP2+g=",
+  "Source": "EnergyServer",
+  "BasePath": "_content/EnergyServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
